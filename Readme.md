@@ -1,4 +1,4 @@
-<img src="/img/logo.png" alt="Nexter logo" max-width="30%">
+<img src="/img/logo.png" alt="Nexter logo" width="30%">
 <!-- -->
 <!-- -->
 
